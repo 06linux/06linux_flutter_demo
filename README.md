@@ -1,16 +1,27 @@
 # flutter_demo
 
-A new Flutter project.
+Flutter demo 工程
 
-## Getting Started
+## 项目说明
 
-This project is a starting point for a Flutter application.
++ 编译工程
+  ```
+  flutter build apk     编译 apk
+  flutter build ios     编译 ios
+  flutter build web     编译 web 版本
+  flutter pub get       安装依赖包
+  flutter devices       设备列表
+  
+  ```
 
-A few resources to get you started if this is your first Flutter project:
++ vs code 插件配置
+  + flutter
+  + dart
+  + Awesome Flutter Snippets
+  + Pubspec Assist
+  + bloc 
+  + Dart Data Class Generator
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 参考资料
++ [https://flutter.cn/](https://flutter.cn/)
