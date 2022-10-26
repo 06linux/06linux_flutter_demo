@@ -22,6 +22,8 @@ Flutter demo 工程
   + bloc 
   + Dart Data Class Generator
 
++ 项目调试
+  + 打开 main.dart, 按 F5 进入调试状态
 
 ## 参考资料
 + [https://flutter.cn/](https://flutter.cn/)
